@@ -1,0 +1,9 @@
+{
+    "firstName": "Sifat",
+    "lastName": "Tanvir",
+    "employeeID": 20051,
+    "employeePersonalDetails":{
+        "age": 13,
+        "bloodGroup": "A+"
+    }
+}
