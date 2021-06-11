@@ -1,0 +1,19 @@
+{
+        "id": 10,
+        "firstName": "Ali",
+        "lastName": "Tanvir",
+        "education": [
+            {
+                "id": 1,
+                "text": "SSC"
+            },
+            {
+                "id": 2,
+                "text": "HSC"
+            },
+            {
+                "id": 3,
+                "text": "B.Sc"
+            }
+        ]
+    }
